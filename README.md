@@ -6,7 +6,7 @@ This Python 3 tool automates the discovery and download of potentially sensitive
 
 - Extracts and downloads:
   - JavaScript files (`.js`)
-  - Configuration and data files (`.json`, `.xml`, `.config`, `.conf`, `.env`)
+  - Configuration and data files ( `.json`, `.xml`, `.config`, `.conf`, `.env` )
 - Creates organized output:
   - Files saved in `download/<target-domain>/` directory
 - Handles both relative and absolute URLs
